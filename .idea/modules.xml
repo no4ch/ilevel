@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ilevel.loc.iml" filepath="$PROJECT_DIR$/.idea/ilevel.loc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../krrrrr.ru/.idea/krrrrr.ru.iml" filepath="$PROJECT_DIR$/../krrrrr.ru/.idea/krrrrr.ru.iml" />
+    </modules>
+  </component>
+</project>
